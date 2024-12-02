@@ -1,0 +1,29 @@
+{
+    "row1": {
+        "head": ["entertainment",
+                "commercial",
+                "education",
+                "security"],
+        "amount": 4,
+        "isReal": true,
+        "name": "Heads"
+    },
+    "row2": {
+        "head": ["Minecraft",
+                "Comarch Optima",
+                "Word",
+                "Avast"],
+        "amount": 4,
+        "isReal": true,
+        "name": "second row"
+    },
+    "row3": {
+        "head": ["Fortnite",
+                "Excel",
+                "Access",
+                "Windows Defender"],
+        "amount": 4,
+        "isReal": true,
+        "name": "second row"
+    }
+}

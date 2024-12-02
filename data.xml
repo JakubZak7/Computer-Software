@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <row1>
+        <head1 id="entertainment">Entertainment</head1>
+        <head2 id="commercial">Commercial</head2>
+        <head3 id="education">Education</head3>
+        <head4 id="security">Security</head4>
+    </row1>
+    <row2>
+        <app1 id="game">Minecraft</app1>
+        <app2 id="comm">Comarch Optima</app2>
+        <app3 id="edu">Word</app3>
+        <app4 id="sec">Avast</app4>
+    </row2>
+    <row3>
+        <app5 id="game">Fortnite</app5>
+        <app6 id="comm">Excel</app6>
+        <app7 id="edu">Access</app7>
+        <app8 id="sec">Windows Defender</app8>
+    </row3>
+</data>
